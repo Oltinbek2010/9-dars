@@ -145,6 +145,9 @@ h3 span {
     width: 100%;
     margin: 0 auto;
   }
+  .nav-list {
+    display: none;
+  }
   .main__container h1 {
     font-size: 24px;
   }
